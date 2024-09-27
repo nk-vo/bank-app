@@ -1,0 +1,26 @@
+# Node modules and logs
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Docker files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Git files
+.git
+.gitignore
+
+# Environment variables
+.env
+
+# Next.js build cache
+.next/cache
+
+# Build directories
+dist
+coverage
+
+# Documentation
+*.md
